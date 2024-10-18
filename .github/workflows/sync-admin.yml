@@ -1,4 +1,6 @@
 name: Sync Admin Branch
+permissions:
+  contents: write
 
 on:
   push:
